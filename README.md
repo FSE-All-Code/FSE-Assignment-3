@@ -16,3 +16,11 @@ git commit -m 'Commit 3'<br>
 
 git add . <br>
 git commit -m 'Commit 4' <br>
+
+`Commit 7 (Checkout new branch 'bug-fix-experimental' from 'Commit 4' in 'bug-fix' branch)`
+
+git log <br>
+git checkout 'commit id'<br>
+git checkout -b bug-fix-experimental<br>
+git add .<br>
+git commit -m 'Commit 7'<br>
