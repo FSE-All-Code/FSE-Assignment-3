@@ -13,3 +13,9 @@ git commit -m 'Commit 1'<br>
 
 git add . <br>
 git commit -m 'Commit 2'<br>
+
+`Commit 10 (Main Branch)`
+
+git checkout main<br>
+git add .<br>
+git commit -m 'Commit 10'<br>
