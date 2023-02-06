@@ -37,3 +37,27 @@ git commit -m 'Commit 5' <br>
 
 git add . <br>
 git commit -m 'Commit 6' <br>
+
+`Commit 7 (Checkout new branch 'bug-fix-experimental' from 'Commit 4' in 'bug-fix' branch)`
+
+git log <br>
+git checkout 'commit id'<br>
+git checkout -b bug-fix-experimental<br>
+git add .<br>
+git commit -m 'Commit 7'<br>
+
+`Commit 8 (bug-fix-experimental Branch)`
+
+git add . <br>
+git commit -m 'Commit 8' <br>
+
+`Commit 9 (bug-fix-experimental Branch)`
+
+git add . <br>
+git commit -m 'Commit 9' <br>
+
+`Commit 11 (Merge 'bug-fix-experimental' branch with 'bug-fix' and resolve merge conflict)`
+
+git merge bug-fix-experimental <br>
+git add . <br>
+git commit -m 'Commit 11' <br>
