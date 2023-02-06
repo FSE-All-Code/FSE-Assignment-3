@@ -78,3 +78,8 @@ git commit -m 'Commit 12' <br>
 git merge bug-fix <br>
 git add . <br>
 git commit -m 'Commit 13' <br>
+
+`Commit 14 ('main' branch)`
+
+git add commit-graph.png README.md <br>
+git commit -m 'Commit 14' <br>
