@@ -8,3 +8,8 @@ git commit -m 'Commit 0' <br>
 
 git add . <br>
 git commit -m 'Commit 1'<br>
+
+`Commit 2 (Main Branch)`
+
+git add . <br>
+git commit -m 'Commit 2'<br>
