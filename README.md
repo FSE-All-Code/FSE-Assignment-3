@@ -32,3 +32,8 @@ git commit -m 'Commit 4' <br>
 git merge main <br>
 git add . <br>
 git commit -m 'Commit 5' <br>
+
+`Commit 6 (bug-fix Branch)`
+
+git add . <br>
+git commit -m 'Commit 6' <br>
