@@ -24,3 +24,8 @@ git checkout 'commit id'<br>
 git checkout -b bug-fix-experimental<br>
 git add .<br>
 git commit -m 'Commit 7'<br>
+
+`Commit 8 (bug-fix-experimental Branch)`
+
+git add . <br>
+git commit -m 'Commit 8' <br>
